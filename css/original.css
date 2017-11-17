@@ -22,7 +22,7 @@
 }
 
 body {
-  background-color: #F5699C;
+  background-color: green;
 }
 
 section {
@@ -49,8 +49,9 @@ section {
  */
 
 .hero {
-  background-color: #F5699C;
+  background-color: #45bf2a;
   min-height: 110vh;
+  background-image: url("../images/logo(.jpg");
 }
 
 .hero img {
@@ -69,7 +70,7 @@ section {
 }
 
 .hero .wrapper h1 {
-  background: #fff;
+  background: #45bf2a;
   background: rgba(255, 255, 255, .3);
   display: inline-block;
   font-size: 60px;
@@ -109,7 +110,7 @@ section {
 
 .hero .buttons a:hover,
 .hero .buttons a:focus {
-  background-color: #0F2C34;
+  background-color: #45bf2a;
   color: #fff;
   transition: all 0.2s ease;
 }
@@ -217,7 +218,7 @@ section {
  */
 
 .footer {
-  background-color: #F5699C;
+  background-color: green;
   color: #fff;
   padding: 30px 0;
 }
